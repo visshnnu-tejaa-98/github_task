@@ -1,0 +1,1 @@
+echo "Hello world from script2.sh file"
