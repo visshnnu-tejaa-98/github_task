@@ -23,3 +23,5 @@ git remote add origin https://github.com/visshnnu-tejaa-98/github_task.git
 git push -u origin main
 
 ```
+
+link to other tasks: https://github.com/visshnnu-tejaa-98/Devops/tree/main/Activities
